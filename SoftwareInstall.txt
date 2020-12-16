@@ -1,0 +1,9 @@
+#Tool installation 
+
+conda create -n Workshop python=3.6
+conda activate Workshop
+conda install jupyter=1.0.0
+conda install matplotlib=3.3.3
+conda install pandas==0.23.1
+conda install scikit-learn=0.19.1
+pip install propy 
